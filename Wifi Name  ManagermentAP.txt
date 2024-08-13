@@ -1,0 +1,5 @@
+Wifi Name : ManagermentAP
+
+Password  : mgmtadmin 
+
+server 198.168.4.1

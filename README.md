@@ -27,7 +27,7 @@ You have several options for uploading the binary file to your ESP32:
 
 #### Using the ESP32 Flash Download Tool
 
-1. **Download the binary file**: [Download the bin file](https://github.com/Mausam678/wifi-jammer-tool-for-esp32/blob/main/esp32-wifi-penetration-tool.bin) from this repository.
+1. **Download the binary file**: [Download the bin file](https://raw.githubusercontent.com/Mausam678/wifi-jammer-tool-for-esp32/main/esp32-wifi-penetration-tool.bin) from this repository.
 2. **Open the ESP32 Flash Download Tool**.
 3. **Connect your ESP32 board** to your computer.
 4. **Select the binary file** you downloaded.
@@ -36,7 +36,7 @@ You have several options for uploading the binary file to your ESP32:
 
 #### Using esptool
 
-1. **Download the binary file**: [Download the bin file](https://github.com/Mausam678/wifi-jammer-tool-for-esp32/blob/main/esp32-wifi-penetration-tool.bin) from this repository.
+1. **Download the binary file**: [Download the bin file](https://raw.githubusercontent.com/Mausam678/wifi-jammer-tool-for-esp32/main/esp32-wifi-penetration-tool.bin) from this repository.
 2. **Open a terminal or command prompt**.
 3. **Run the following command**:
 
